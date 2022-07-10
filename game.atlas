@@ -1,229 +1,152 @@
 
 game.png
-size: 1024, 1024
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/China
   rotate: false
-  xy: 909, 588
+  xy: 1932, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Inca
   rotate: false
-  xy: 285, 448
+  xy: 4, 300
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Iroquois
   rotate: false
-  xy: 493, 448
+  xy: 4, 92
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Songhai
   rotate: false
-  xy: 701, 448
+  xy: 212, 300
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/hexatopia/Borders/ConcaveConvexInner
-  rotate: false
-  xy: 886, 983
-  size: 122, 33
-  orig: 122, 33
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Borders/ConcaveConvexOuter
-  rotate: false
-  xy: 886, 942
-  size: 122, 33
-  orig: 122, 33
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Borders/ConcaveInner
-  rotate: false
-  xy: 886, 901
-  size: 122, 33
-  orig: 122, 33
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Borders/ConcaveOuter
-  rotate: false
-  xy: 886, 860
-  size: 122, 33
-  orig: 122, 33
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Borders/ConvexConcaveInner
-  rotate: false
-  xy: 886, 819
-  size: 122, 33
-  orig: 122, 33
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Borders/ConvexConcaveOuter
-  rotate: false
-  xy: 886, 778
-  size: 122, 33
-  orig: 122, 33
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Borders/ConvexInner
-  rotate: false
-  xy: 886, 737
-  size: 122, 33
-  orig: 122, 33
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Borders/ConvexOuter
-  rotate: false
-  xy: 886, 696
-  size: 122, 33
-  orig: 122, 33
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Crosshair
-  rotate: false
-  xy: 4, 324
-  size: 174, 125
-  orig: 174, 125
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/CrosshatchHexagon
-  rotate: false
-  xy: 4, 457
-  size: 273, 236
-  orig: 273, 236
-  offset: 0, 0
-  index: -1
 TileSets/hexatopia/Hexagon
   rotate: false
-  xy: 462, 656
-  size: 416, 360
-  orig: 416, 360
-  offset: 0, 0
-  index: -1
-TileSets/hexatopia/Highlight
-  rotate: false
-  xy: 4, 701
-  size: 450, 315
-  orig: 450, 315
+  xy: 380, 264
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Railroad
   rotate: false
-  xy: 285, 665
-  size: 152, 28
-  orig: 152, 28
+  xy: 4, 52
+  size: 60, 32
+  orig: 60, 32
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Road
   rotate: false
-  xy: 508, 116
-  size: 152, 28
-  orig: 152, 28
+  xy: 924, 320
+  size: 60, 32
+  orig: 60, 32
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Coast
   rotate: false
-  xy: 186, 300
+  xy: 212, 152
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Desert
   rotate: false
-  xy: 354, 300
+  xy: 420, 360
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Grassland
   rotate: false
-  xy: 522, 300
+  xy: 588, 360
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/HillD
   rotate: false
-  xy: 690, 300
+  xy: 756, 360
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/HillG
   rotate: false
-  xy: 858, 300
+  xy: 924, 360
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/HillP
   rotate: false
-  xy: 4, 176
+  xy: 1092, 360
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/HillS
   rotate: false
-  xy: 172, 152
+  xy: 1260, 360
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/HillT
   rotate: false
-  xy: 340, 152
+  xy: 1428, 360
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Lakes
   rotate: false
-  xy: 508, 152
+  xy: 1596, 360
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Mountain
   rotate: false
-  xy: 676, 132
+  xy: 1764, 340
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Ocean
   rotate: false
-  xy: 844, 152
+  xy: 212, 4
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Plains
   rotate: false
-  xy: 4, 28
+  xy: 420, 212
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Snow
   rotate: false
-  xy: 172, 4
+  xy: 588, 212
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
   index: -1
 TileSets/hexatopia/Tiles/Tundra
   rotate: false
-  xy: 340, 4
+  xy: 756, 212
   size: 160, 140
   orig: 160, 140
   offset: 0, 0
