@@ -1,9 +1,10 @@
 {
-    "useColorAsBaseTerrain": "false",
-		"unexploredTileColor": {"r":1,"g":1,"b":1,"a":1}, //White
+	"useColorAsBaseTerrain": "false",
+	"fallbackTileSet": "HexaRealm",
+	"unexploredTileColor": {"r":1,"g":1,"b":1,"a":1}, //White
 	"fogOfWarColor": {"r":0,"g":0,"b":0,"a":1}, //Black
 	"tileScale": 1,
-    "ruleVariants": {
+	"ruleVariants": {
 // other	
 		"Forest+Lumber mill": ["Forest+Lumber mill"]
 	    	
